@@ -50,4 +50,4 @@ const response =  await fetch(`http://YourOwnServerName.onrender.com/api/restaur
 
 ## 🔗 Let's Connect
 
-[linkedin](www.linkedin.com/in/sudhachandan-banerjee)
+[linkedin](https://www.linkedin.com/in/sudhachandan-banerjee)
