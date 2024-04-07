@@ -1,6 +1,6 @@
 # 🌐 Foodapp Server
 
-A FoodFire Server (Node.js web server) that fetches data from a third-party (Swiggy) API (Fix the CORS Issue) and exposes it to a client [🚀 FoodFire ](https://sudhabnrj.netlify.app/) App 😍.
+A FoodFire Server (Node.js web server) that fetches data from a third-party (Swiggy) API (Fix the CORS Issue) and exposes it to a client [🚀 Foodapp Server ](https://sudhabnrj.netlify.app/) App 😍.
 
 <br/>
 ## 🔥 Clone this Repository
@@ -32,7 +32,7 @@ const data = await response.json();
 ```
 
 
-## 🔮 Deploy the FoodFire server
+## 🔮 Deploy the Foodapp server
 Once you have tested the FoodFire server locally, you can deploy it to a production environment by following these steps.
 
 1. Create an account on [Render](https://render.com/) if you haven't already.
